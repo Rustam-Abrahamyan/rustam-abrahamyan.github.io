@@ -1,0 +1,20 @@
+{
+  "name": "Rustam Abrahamyan",
+  "short_name": "Rustam Abrahamyan",
+  "icons": [
+    {
+      "src": "https://rustam-abrahamyan.github.io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://rustam-abrahamyan.github.io/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "https://rustam-abrahamyan.github.io",
+  "display": "standalone"
+}
